@@ -1,4 +1,3 @@
-import time
 from playwright.sync_api import Page, expect, Playwright
 
 def test_UIValiadationDynamicScript(page:Page):
